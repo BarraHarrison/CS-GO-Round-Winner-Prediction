@@ -1,7 +1,5 @@
 # CSGO Round Winner Prediction using JupyterLabs, ML & Python
 
-# CSGO Round Winner Prediction using JupyterLabs, ML & Python
-
 ## **📌 Project Overview**
 This project predicts the **winner of a CS:GO round** using **machine learning models** trained on in-game data. The dataset includes features such as **player health, armor, weapons, grenades, economy, and map details**, which influence the outcome of each round.  
 
